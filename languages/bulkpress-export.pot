@@ -1,0 +1,71 @@
+# Copyright (C) 2021 MELONIQ.NET
+# This file is distributed under the same license as the BulkPress - Export package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BulkPress - Export\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bulkpress-export/\n"
+"POT-Creation-Date: 2021-06-22 17:02+0200\n"
+"PO-Revision-Date: 2013-03-27 16:18+0100\n"
+"Last-Translator: MELONIQ.NET\n"
+"Language-Team: MELONIQ.NET\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin-page.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin-page.php:10 ../bulkpress-export.php:46
+msgid "BulkPress - Export"
+msgstr ""
+
+#: ../admin-page.php:11
+msgid ""
+"When you click the button below, it will create an formatted file for you to "
+"save to your computer."
+msgstr ""
+
+#: ../admin-page.php:12
+msgid ""
+"Once you've saved the download file, you can use the BulkPress plugin in "
+"another WordPress installation to import the content from this site."
+msgstr ""
+
+#: ../admin-page.php:19
+msgid "Taxonomy"
+msgstr ""
+
+#: ../admin-page.php:26
+msgid "Select the taxonomy which you would like to export."
+msgstr ""
+
+#: ../admin-page.php:30
+msgid "Content"
+msgstr ""
+
+#: ../admin-page.php:32
+msgid "Names"
+msgstr ""
+
+#: ../admin-page.php:33
+msgid "Slugs"
+msgstr ""
+
+#: ../admin-page.php:34
+msgid "Choose what to export."
+msgstr ""
+
+#: ../admin-page.php:41
+msgid "Download Export File"
+msgstr ""
